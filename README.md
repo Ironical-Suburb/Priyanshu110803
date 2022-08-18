@@ -1,9 +1,9 @@
 
-<div id="header" align="Left">
+<div id="header" align="Center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200" align="center"/>
 </div>
 <br>
-<div id="badges" align = "Left">
+<div id="badges" align = "Center">
   <a href="https://www.linkedin.com/in/priyanshu-pusola-642b74241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
