@@ -1,8 +1,6 @@
-<div id ="header" align "center">
-  <img src="https://media.giphy.com/media/noyBeNjH4nbtXV5ZLA/giphy.gif" width="300" align="center"/>
-</div>
+# HelLo Fellow Coders And Friends ! 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200" align="center"/>
+  <img src="https://media.giphy.com/media/noyBeNjH4nbtXV5ZLA/giphy.gif" width="200" align="center"/>
 </div>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/priyanshu-pusola-642b74241/">
