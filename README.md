@@ -26,3 +26,4 @@
 <br>
 :mailbox: How to reach me: pusola@ualberta.ca
 <br>
+:hammer_and_wrench: Languages and Tools :
