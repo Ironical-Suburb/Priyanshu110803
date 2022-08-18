@@ -18,7 +18,7 @@
      Hi Fellow Coders !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<ul>:man_technologist: I'm a Sophomore at University Of Alberta.
+<ul>:man_technologist: I'm a Sophomore at University Of Alberta.</ul>
 <br>
 :seedling: Learning About Data Base Algorithms.
 <br>
