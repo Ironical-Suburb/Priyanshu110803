@@ -29,4 +29,4 @@
 :hammer_and_wrench: Languages and Tools :
 <br>
 :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Priyanshu110803&theme=radical&hide_border=true)](https://git.io/streak-stats)
+(http://github-readme-streak-stats.herokuapp.com?user=Priyanshu110803&theme=radical&hide_border=true)](https://git.io/streak-stats)
