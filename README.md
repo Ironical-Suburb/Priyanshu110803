@@ -18,7 +18,9 @@
      Hi Fellow Coders !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-:man_technologist: About Me : 
-I'm a Sophomore at University Of Alberta.
+:man_technologist: I'm a Sophomore at University Of Alberta.
 <br>
 :seedling: Learning About Data Base Algorithms.
+<br>
+:zap: In my free time, I solve problems on Kattis and LeetCode and Game sometimes.
+<br>
