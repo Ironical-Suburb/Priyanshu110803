@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/priyanshu-pusola-642b74241/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="pusola@ualberta.ca">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="your-twitter-URL">
