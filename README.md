@@ -20,4 +20,5 @@
 </h1>
 :man_technologist: About Me : 
 I'm a Sophomore at University Of Alberta.
+<br>
 :seedling: Learning About Data Base Algorithms.
