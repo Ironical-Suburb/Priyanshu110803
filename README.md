@@ -1,4 +1,4 @@
-<l1><b> Hello Fellow Coders And Friends ! 👋</b></l1>
+<l1><b><center> Hello Fellow Coders And Friends ! 👋</center></b></l1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/noyBeNjH4nbtXV5ZLA/giphy.gif" width="200" align="center"/>
 </div>
