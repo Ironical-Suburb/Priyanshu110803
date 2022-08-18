@@ -24,5 +24,5 @@
 <br>
 :zap: In my free time, I solve problems on Kattis and LeetCode and Game sometimes.
 <br>
-:mailbox:How to reach me: pusola@ualberta.ca
+:mailbox: How to reach me: pusola@ualberta.ca
 <br>
